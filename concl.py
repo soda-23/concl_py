@@ -26,10 +26,10 @@ while True:
         if oper2 == 'next':
             break
         else:
-            print('продолжем')
+            print('продолжим наш проект')
 
        
-       
+       re
        
        
        
